@@ -1,5 +1,7 @@
 # d3-random
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-random)](https://dev.azure.com/d3/d3/_build/definition?definitionId=23)
+
 Generate random numbers from various distributions.
 
 ## Installing
